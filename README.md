@@ -240,7 +240,7 @@ scroll down to Secure listener settings
 security policy: leave the default settings
 For Default SSL/TLS certificate: choose "From ACM"
 select certificate: choose the certificate from the drop down menu
----------------------------------------------------------------------------------------
+
 
 Review the summary
 click on create load balancer
