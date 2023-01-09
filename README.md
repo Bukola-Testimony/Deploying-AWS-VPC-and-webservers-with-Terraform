@@ -1,5 +1,5 @@
 # Deploying-AWS-VPC-and-webservers-with-Terraform
-> ![AltSchool Cloud Exercices](/project-architecture.png)
+> ![Deploying-AWS-VPC-and-webservers-with-Terraform](/project-architecture.png)
 
 
  how to Create a VPC with Public and Private Subnets in AWS. Use "my demo" as an example name. The VPC should have NAT gateway and an internet gateway.
