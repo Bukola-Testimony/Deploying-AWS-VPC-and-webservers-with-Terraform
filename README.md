@@ -231,8 +231,8 @@ scroll down an click on "create target group"
 Go back to load balancer settings under listener, refresh the target group and select the newly created target group "demo-target-group"
 
 
-----------------------------------------------------------------------------------
-This step is optional. If you have domain name with ssl certificates
+
+## This step is optional. If you have domain name with ssl certificates
 -----------------------------------------------------------------------------------
 Add another listener:  HTTPS: 443
 Select target group:  demo-target-group
